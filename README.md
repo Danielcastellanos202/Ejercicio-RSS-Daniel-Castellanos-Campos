@@ -1,5 +1,4 @@
-# Ejercicio RSS
-
+# Ejercicio RSS: SINTAXIS UTILIZADA
 <?xml version="1.0" encoding="UTF-8"?> 
 
 <rss version="2.0"> 
@@ -22,7 +21,7 @@
 
       <pubDate>Sat, 8 Feb 2025 22:33:00 CET</pubDate> 
 
-      <enclosure url="" type="image/jpeg" /> 
+      <enclosure url="https://www.premiosgoya.com/wp-content/uploads/2017/02/MAC8849.jpg" type="image/jpg" /> 
 
     </item> 
 
@@ -36,7 +35,7 @@
 
       <pubDate>Sat,8 Febr 2025 14:31:00 CET</pubDate> 
 
-      <enclosure url="" type="image/jpeg" /> 
+      <enclosure url="https://eldia.com.bo/files/posts/2025-02-08/el-actor-de-cine-y-teatro-tony-roberts-muere-a-los-85-anos-08-02-2025.jpg" type="image/jpg" /> 
 
     </item> 
 
@@ -50,10 +49,12 @@
 
       <pubDate>Sat,8 Febr 2025 08:08:00 CET</pubDate> 
 
-      <enclosure url="" type="image/jpeg" /> 
+      <enclosure url="https://static.euronews.com/articles/stories/08/98/52/38/1200x675_cmsv2_cf6cad3b-d8d7-5ca9-b187-5b32868957d0-8985238.jpg" type="image/jp" /> 
 
     </item> 
 
   </channel> 
 
 </rss> 
+
+
